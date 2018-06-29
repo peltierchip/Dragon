@@ -1,0 +1,6 @@
+verilog work "VGA_gen.v"
+verilog work "updateClk.v"
+verilog work "randomGrid.v"
+verilog work "debounce.v"
+verilog work "dcm_mgr.v"
+verilog work "Snake.v"
